@@ -1,1 +1,1 @@
-au BufRead,BufNewFile *.rc setf rc
+au BufRead,BufNewFile .rcrc*,rcrc,*.rc setf rc
